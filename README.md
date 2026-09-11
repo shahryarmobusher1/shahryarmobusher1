@@ -22,6 +22,7 @@ Currently looking for entry-level **Machine Learning / Data Science** opportunit
 ### 🚀 Featured Projects
 
 - **[DevDialogue AI](https://github.com/shahryarmobusher1/DevDialogueAI)** — A dual-mode, requirement-aware AI code generation platform (Django + agentic N8N workflows + DeepSeek API) that interviews developers before generating code.
+- **SizzleBite AI** — A restaurant ordering agent letting customers order via AI voice call or text chat, with a real-time manager dashboard and a live JSON database, powered by an Express.js backend proxying Groq's LLM API.
 - **ISO-NE Electricity Price Prediction** — Regression pipeline over 29K+ hourly records; benchmarked 5 models plus a Stacking Ensemble, reaching the best R² via cross-validation, interpreted with SHAP.
 - **Customer Churn Prediction** — Logistic Regression & Random Forest on the IBM Telco dataset, tuned for churn-recall over raw accuracy.
 - **House Price Prediction** — Regression on the Ames Housing dataset (R² 0.89) with domain-aware imputation and leakage prevention.
